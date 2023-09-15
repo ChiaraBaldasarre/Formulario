@@ -7,7 +7,7 @@ Ayuda a los usuarios a comprender sobre expresiones regulares y su implementaci√
 
 Para clonar el proyecto, siga estos pasos:
 
-1. Clica en <Code>.
+1. Clica en "<Code>".
 2. Descarga el archivo ZIP del proyecto.
 3. Descomprime el archivo ZIP en una carpeta.
 4. Abra la carpeta descomprimida en tu editor de texto de preferencia.
